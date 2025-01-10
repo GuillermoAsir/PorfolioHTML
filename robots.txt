@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /private/
+Allow: /
+Sitemap: https://guillermoasir.github.io/PorfolioHTML/sitemap.xml
